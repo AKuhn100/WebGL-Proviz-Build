@@ -1,0 +1,1285 @@
+{
+    "residues": [
+        {
+            "atom_name": "CA",
+            "residue_name": "SER",
+            "chain_id": "A",
+            "residue_id": 1856,
+            "position": {
+                "x": 52.127,
+                "y": 20.35,
+                "z": 16.011
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "MET",
+            "chain_id": "A",
+            "residue_id": 1857,
+            "position": {
+                "x": 52.589,
+                "y": 18.851,
+                "z": 12.499
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "SER",
+            "chain_id": "A",
+            "residue_id": 1858,
+            "position": {
+                "x": 52.356,
+                "y": 15.011,
+                "z": 12.706
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "VAL",
+            "chain_id": "A",
+            "residue_id": 1859,
+            "position": {
+                "x": 52.315,
+                "y": 15.275,
+                "z": 16.633
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LYS",
+            "chain_id": "A",
+            "residue_id": 1860,
+            "position": {
+                "x": 48.912,
+                "y": 14.812,
+                "z": 18.232
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LYS",
+            "chain_id": "A",
+            "residue_id": 1861,
+            "position": {
+                "x": 47.462,
+                "y": 14.259,
+                "z": 21.712
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "PRO",
+            "chain_id": "A",
+            "residue_id": 1862,
+            "position": {
+                "x": 45.339,
+                "y": 11.09,
+                "z": 22.037
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LYS",
+            "chain_id": "A",
+            "residue_id": 1863,
+            "position": {
+                "x": 41.813,
+                "y": 11.413,
+                "z": 20.343
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ARG",
+            "chain_id": "A",
+            "residue_id": 1864,
+            "position": {
+                "x": 39.025,
+                "y": 12.236,
+                "z": 22.968
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASP",
+            "chain_id": "A",
+            "residue_id": 1865,
+            "position": {
+                "x": 35.757,
+                "y": 10.527,
+                "z": 21.858
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASP",
+            "chain_id": "A",
+            "residue_id": 1866,
+            "position": {
+                "x": 33.446,
+                "y": 13.397,
+                "z": 20.784
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "SER",
+            "chain_id": "A",
+            "residue_id": 1867,
+            "position": {
+                "x": 30.876,
+                "y": 11.231,
+                "z": 18.915
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LYS",
+            "chain_id": "A",
+            "residue_id": 1868,
+            "position": {
+                "x": 28.233,
+                "y": 11.57,
+                "z": 21.675
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASP",
+            "chain_id": "A",
+            "residue_id": 1869,
+            "position": {
+                "x": 28.688,
+                "y": 15.329,
+                "z": 22.253
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LEU",
+            "chain_id": "A",
+            "residue_id": 1870,
+            "position": {
+                "x": 25.714,
+                "y": 16.381,
+                "z": 20.029
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ALA",
+            "chain_id": "A",
+            "residue_id": 1871,
+            "position": {
+                "x": 23.371,
+                "y": 14.012,
+                "z": 21.834
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LEU",
+            "chain_id": "A",
+            "residue_id": 1872,
+            "position": {
+                "x": 24.602,
+                "y": 14.94,
+                "z": 25.239
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "CYS",
+            "chain_id": "A",
+            "residue_id": 1873,
+            "position": {
+                "x": 24.342,
+                "y": 18.787,
+                "z": 24.584
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "SER",
+            "chain_id": "A",
+            "residue_id": 1874,
+            "position": {
+                "x": 20.738,
+                "y": 18.129,
+                "z": 23.366
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "MET",
+            "chain_id": "A",
+            "residue_id": 1875,
+            "position": {
+                "x": 19.961,
+                "y": 16.349,
+                "z": 26.667
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ILE",
+            "chain_id": "A",
+            "residue_id": 1876,
+            "position": {
+                "x": 21.378,
+                "y": 19.17,
+                "z": 28.728
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LEU",
+            "chain_id": "A",
+            "residue_id": 1877,
+            "position": {
+                "x": 19.435,
+                "y": 21.711,
+                "z": 26.651
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "THR",
+            "chain_id": "A",
+            "residue_id": 1878,
+            "position": {
+                "x": 16.209,
+                "y": 19.668,
+                "z": 27.213
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "GLU",
+            "chain_id": "A",
+            "residue_id": 1879,
+            "position": {
+                "x": 16.79,
+                "y": 19.77,
+                "z": 30.961
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "MET",
+            "chain_id": "A",
+            "residue_id": 1880,
+            "position": {
+                "x": 17.332,
+                "y": 23.579,
+                "z": 30.832
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "GLU",
+            "chain_id": "A",
+            "residue_id": 1881,
+            "position": {
+                "x": 14.13,
+                "y": 24.022,
+                "z": 28.662
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "THR",
+            "chain_id": "A",
+            "residue_id": 1882,
+            "position": {
+                "x": 12.041,
+                "y": 22.098,
+                "z": 31.252
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "HIS",
+            "chain_id": "A",
+            "residue_id": 1883,
+            "position": {
+                "x": 13.336,
+                "y": 23.822,
+                "z": 34.422
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "GLU",
+            "chain_id": "A",
+            "residue_id": 1884,
+            "position": {
+                "x": 10.659,
+                "y": 25.916,
+                "z": 36.086
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASP",
+            "chain_id": "A",
+            "residue_id": 1885,
+            "position": {
+                "x": 12.878,
+                "y": 29.003,
+                "z": 36.061
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ALA",
+            "chain_id": "A",
+            "residue_id": 1886,
+            "position": {
+                "x": 13.544,
+                "y": 28.806,
+                "z": 32.274
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "TRP",
+            "chain_id": "A",
+            "residue_id": 1887,
+            "position": {
+                "x": 10.595,
+                "y": 31.127,
+                "z": 31.336
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "PRO",
+            "chain_id": "A",
+            "residue_id": 1888,
+            "position": {
+                "x": 12.692,
+                "y": 34.323,
+                "z": 30.858
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "PHE",
+            "chain_id": "A",
+            "residue_id": 1889,
+            "position": {
+                "x": 15.033,
+                "y": 32.491,
+                "z": 28.429
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LEU",
+            "chain_id": "A",
+            "residue_id": 1890,
+            "position": {
+                "x": 12.768,
+                "y": 30.285,
+                "z": 26.265
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LEU",
+            "chain_id": "A",
+            "residue_id": 1891,
+            "position": {
+                "x": 12.249,
+                "y": 32.801,
+                "z": 23.446
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "PRO",
+            "chain_id": "A",
+            "residue_id": 1892,
+            "position": {
+                "x": 14.114,
+                "y": 35.808,
+                "z": 22.064
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "VAL",
+            "chain_id": "A",
+            "residue_id": 1893,
+            "position": {
+                "x": 13.499,
+                "y": 39.106,
+                "z": 23.915
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASN",
+            "chain_id": "A",
+            "residue_id": 1894,
+            "position": {
+                "x": 11.03,
+                "y": 41.171,
+                "z": 21.849
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LEU",
+            "chain_id": "A",
+            "residue_id": 1895,
+            "position": {
+                "x": 13.229,
+                "y": 44.052,
+                "z": 20.591
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LYS",
+            "chain_id": "A",
+            "residue_id": 1896,
+            "position": {
+                "x": 10.173,
+                "y": 46.099,
+                "z": 19.576
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LEU",
+            "chain_id": "A",
+            "residue_id": 1897,
+            "position": {
+                "x": 8.611,
+                "y": 45.881,
+                "z": 23.021
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "VAL",
+            "chain_id": "A",
+            "residue_id": 1898,
+            "position": {
+                "x": 11.52,
+                "y": 46.114,
+                "z": 25.463
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "PRO",
+            "chain_id": "A",
+            "residue_id": 1899,
+            "position": {
+                "x": 13.117,
+                "y": 49.548,
+                "z": 25.612
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "GLY",
+            "chain_id": "A",
+            "residue_id": 1900,
+            "position": {
+                "x": 16.888,
+                "y": 49.627,
+                "z": 25.81
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "TYR",
+            "chain_id": "A",
+            "residue_id": 1901,
+            "position": {
+                "x": 17.435,
+                "y": 45.934,
+                "z": 24.863
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LYS",
+            "chain_id": "A",
+            "residue_id": 1902,
+            "position": {
+                "x": 18.395,
+                "y": 46.328,
+                "z": 21.253
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LYS",
+            "chain_id": "A",
+            "residue_id": 1903,
+            "position": {
+                "x": 21.067,
+                "y": 49.036,
+                "z": 21.957
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "VAL",
+            "chain_id": "A",
+            "residue_id": 1904,
+            "position": {
+                "x": 22.473,
+                "y": 47.641,
+                "z": 25.155
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ILE",
+            "chain_id": "A",
+            "residue_id": 1905,
+            "position": {
+                "x": 22.677,
+                "y": 43.847,
+                "z": 24.427
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LYS",
+            "chain_id": "A",
+            "residue_id": 1906,
+            "position": {
+                "x": 24.936,
+                "y": 43.478,
+                "z": 21.504
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LYS",
+            "chain_id": "A",
+            "residue_id": 1907,
+            "position": {
+                "x": 24.465,
+                "y": 39.706,
+                "z": 21.059
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "PRO",
+            "chain_id": "A",
+            "residue_id": 1908,
+            "position": {
+                "x": 20.974,
+                "y": 38.468,
+                "z": 22.131
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "MET",
+            "chain_id": "A",
+            "residue_id": 1909,
+            "position": {
+                "x": 20.713,
+                "y": 34.734,
+                "z": 22.82
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASP",
+            "chain_id": "A",
+            "residue_id": 1910,
+            "position": {
+                "x": 17.883,
+                "y": 32.435,
+                "z": 24.094
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "PHE",
+            "chain_id": "A",
+            "residue_id": 1911,
+            "position": {
+                "x": 17.184,
+                "y": 28.664,
+                "z": 24.439
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "SER",
+            "chain_id": "A",
+            "residue_id": 1912,
+            "position": {
+                "x": 15.049,
+                "y": 28.457,
+                "z": 21.258
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "THR",
+            "chain_id": "A",
+            "residue_id": 1913,
+            "position": {
+                "x": 17.854,
+                "y": 30.01,
+                "z": 19.174
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ILE",
+            "chain_id": "A",
+            "residue_id": 1914,
+            "position": {
+                "x": 20.398,
+                "y": 27.611,
+                "z": 20.741
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ARG",
+            "chain_id": "A",
+            "residue_id": 1915,
+            "position": {
+                "x": 18.023,
+                "y": 24.689,
+                "z": 19.961
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "GLU",
+            "chain_id": "A",
+            "residue_id": 1916,
+            "position": {
+                "x": 17.729,
+                "y": 25.728,
+                "z": 16.285
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LYS",
+            "chain_id": "A",
+            "residue_id": 1917,
+            "position": {
+                "x": 21.547,
+                "y": 26.231,
+                "z": 15.946
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LEU",
+            "chain_id": "A",
+            "residue_id": 1918,
+            "position": {
+                "x": 22.134,
+                "y": 22.81,
+                "z": 17.598
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "SER",
+            "chain_id": "A",
+            "residue_id": 1919,
+            "position": {
+                "x": 19.625,
+                "y": 21.017,
+                "z": 15.346
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "SER",
+            "chain_id": "A",
+            "residue_id": 1920,
+            "position": {
+                "x": 21.128,
+                "y": 22.52,
+                "z": 12.108
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "GLY",
+            "chain_id": "A",
+            "residue_id": 1921,
+            "position": {
+                "x": 24.869,
+                "y": 21.905,
+                "z": 12.685
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "GLN",
+            "chain_id": "A",
+            "residue_id": 1922,
+            "position": {
+                "x": 25.813,
+                "y": 25.417,
+                "z": 13.525
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "TYR",
+            "chain_id": "A",
+            "residue_id": 1923,
+            "position": {
+                "x": 27.925,
+                "y": 24.467,
+                "z": 16.612
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "PRO",
+            "chain_id": "A",
+            "residue_id": 1924,
+            "position": {
+                "x": 31.389,
+                "y": 23.266,
+                "z": 15.483
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASN",
+            "chain_id": "A",
+            "residue_id": 1925,
+            "position": {
+                "x": 32.216,
+                "y": 21.843,
+                "z": 18.935
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LEU",
+            "chain_id": "A",
+            "residue_id": 1926,
+            "position": {
+                "x": 31.233,
+                "y": 21.508,
+                "z": 22.669
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LEU",
+            "chain_id": "A",
+            "residue_id": 1926,
+            "position": {
+                "x": 30.841,
+                "y": 21.542,
+                "z": 22.532
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "GLU",
+            "chain_id": "A",
+            "residue_id": 1927,
+            "position": {
+                "x": 32.761,
+                "y": 24.769,
+                "z": 23.599
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "THR",
+            "chain_id": "A",
+            "residue_id": 1928,
+            "position": {
+                "x": 30.845,
+                "y": 26.975,
+                "z": 21.127
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "PHE",
+            "chain_id": "A",
+            "residue_id": 1929,
+            "position": {
+                "x": 27.604,
+                "y": 25.471,
+                "z": 22.562
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ALA",
+            "chain_id": "A",
+            "residue_id": 1930,
+            "position": {
+                "x": 28.641,
+                "y": 26.367,
+                "z": 26.17
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LEU",
+            "chain_id": "A",
+            "residue_id": 1931,
+            "position": {
+                "x": 29.599,
+                "y": 29.917,
+                "z": 25.063
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASP",
+            "chain_id": "A",
+            "residue_id": 1932,
+            "position": {
+                "x": 26.017,
+                "y": 30.579,
+                "z": 23.773
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "VAL",
+            "chain_id": "A",
+            "residue_id": 1933,
+            "position": {
+                "x": 24.403,
+                "y": 29.077,
+                "z": 26.924
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ARG",
+            "chain_id": "A",
+            "residue_id": 1934,
+            "position": {
+                "x": 26.665,
+                "y": 31.35,
+                "z": 29.107
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LEU",
+            "chain_id": "A",
+            "residue_id": 1935,
+            "position": {
+                "x": 25.781,
+                "y": 34.338,
+                "z": 26.828
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "VAL",
+            "chain_id": "A",
+            "residue_id": 1936,
+            "position": {
+                "x": 22.132,
+                "y": 33.863,
+                "z": 27.811
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "PHE",
+            "chain_id": "A",
+            "residue_id": 1937,
+            "position": {
+                "x": 23.057,
+                "y": 34.351,
+                "z": 31.506
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASP",
+            "chain_id": "A",
+            "residue_id": 1938,
+            "position": {
+                "x": 25.566,
+                "y": 37.108,
+                "z": 30.957
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASN",
+            "chain_id": "A",
+            "residue_id": 1939,
+            "position": {
+                "x": 22.969,
+                "y": 39.094,
+                "z": 29.004
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "CYS",
+            "chain_id": "A",
+            "residue_id": 1940,
+            "position": {
+                "x": 20.459,
+                "y": 38.512,
+                "z": 31.793
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "GLU",
+            "chain_id": "A",
+            "residue_id": 1941,
+            "position": {
+                "x": 22.921,
+                "y": 39.919,
+                "z": 34.423
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "THR",
+            "chain_id": "A",
+            "residue_id": 1942,
+            "position": {
+                "x": 23.661,
+                "y": 42.933,
+                "z": 32.165
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "PHE",
+            "chain_id": "A",
+            "residue_id": 1943,
+            "position": {
+                "x": 19.995,
+                "y": 43.953,
+                "z": 31.926
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASN",
+            "chain_id": "A",
+            "residue_id": 1944,
+            "position": {
+                "x": 18.31,
+                "y": 42.743,
+                "z": 35.16
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "GLU",
+            "chain_id": "A",
+            "residue_id": 1945,
+            "position": {
+                "x": 18.853,
+                "y": 43.574,
+                "z": 38.827
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASP",
+            "chain_id": "A",
+            "residue_id": 1946,
+            "position": {
+                "x": 20.1,
+                "y": 40.606,
+                "z": 41.02
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASP",
+            "chain_id": "A",
+            "residue_id": 1947,
+            "position": {
+                "x": 17.092,
+                "y": 41.21,
+                "z": 43.34
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "SER",
+            "chain_id": "A",
+            "residue_id": 1948,
+            "position": {
+                "x": 14.326,
+                "y": 40.673,
+                "z": 40.686
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASP",
+            "chain_id": "A",
+            "residue_id": 1949,
+            "position": {
+                "x": 12.507,
+                "y": 37.538,
+                "z": 39.636
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ILE",
+            "chain_id": "A",
+            "residue_id": 1950,
+            "position": {
+                "x": 14.363,
+                "y": 37.427,
+                "z": 36.279
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "GLY",
+            "chain_id": "A",
+            "residue_id": 1951,
+            "position": {
+                "x": 17.721,
+                "y": 38.275,
+                "z": 37.885
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ARG",
+            "chain_id": "A",
+            "residue_id": 1952,
+            "position": {
+                "x": 17.346,
+                "y": 35.369,
+                "z": 40.375
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ALA",
+            "chain_id": "A",
+            "residue_id": 1953,
+            "position": {
+                "x": 16.135,
+                "y": 33.06,
+                "z": 37.574
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "GLY",
+            "chain_id": "A",
+            "residue_id": 1954,
+            "position": {
+                "x": 19.36,
+                "y": 33.727,
+                "z": 35.694
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "HIS",
+            "chain_id": "A",
+            "residue_id": 1955,
+            "position": {
+                "x": 21.59,
+                "y": 32.933,
+                "z": 38.602
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASN",
+            "chain_id": "A",
+            "residue_id": 1956,
+            "position": {
+                "x": 19.688,
+                "y": 29.727,
+                "z": 39.321
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "MET",
+            "chain_id": "A",
+            "residue_id": 1957,
+            "position": {
+                "x": 19.849,
+                "y": 28.529,
+                "z": 35.693
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ARG",
+            "chain_id": "A",
+            "residue_id": 1958,
+            "position": {
+                "x": 23.567,
+                "y": 29.301,
+                "z": 35.338
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LYS",
+            "chain_id": "A",
+            "residue_id": 1959,
+            "position": {
+                "x": 24.232,
+                "y": 27.163,
+                "z": 38.461
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "TYR",
+            "chain_id": "A",
+            "residue_id": 1960,
+            "position": {
+                "x": 22.059,
+                "y": 24.351,
+                "z": 37.158
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "PHE",
+            "chain_id": "A",
+            "residue_id": 1961,
+            "position": {
+                "x": 23.812,
+                "y": 24.453,
+                "z": 33.756
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "GLU",
+            "chain_id": "A",
+            "residue_id": 1962,
+            "position": {
+                "x": 27.378,
+                "y": 24.514,
+                "z": 35.164
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LYS",
+            "chain_id": "A",
+            "residue_id": 1963,
+            "position": {
+                "x": 26.763,
+                "y": 21.426,
+                "z": 37.319
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LYS",
+            "chain_id": "A",
+            "residue_id": 1964,
+            "position": {
+                "x": 25.326,
+                "y": 19.404,
+                "z": 34.392
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "TRP",
+            "chain_id": "A",
+            "residue_id": 1965,
+            "position": {
+                "x": 28.225,
+                "y": 20.554,
+                "z": 32.228
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "THR",
+            "chain_id": "A",
+            "residue_id": 1966,
+            "position": {
+                "x": 30.882,
+                "y": 19.401,
+                "z": 34.8
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "ASP",
+            "chain_id": "A",
+            "residue_id": 1967,
+            "position": {
+                "x": 29.097,
+                "y": 16.134,
+                "z": 35.53
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "THR",
+            "chain_id": "A",
+            "residue_id": 1968,
+            "position": {
+                "x": 28.621,
+                "y": 15.235,
+                "z": 31.86
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "PHE",
+            "chain_id": "A",
+            "residue_id": 1969,
+            "position": {
+                "x": 32.035,
+                "y": 16.279,
+                "z": 30.412
+            }
+        },
+        {
+            "atom_name": "CA",
+            "residue_name": "LYS",
+            "chain_id": "A",
+            "residue_id": 1970,
+            "position": {
+                "x": 34.715,
+                "y": 16.983,
+                "z": 33.201
+            }
+        }
+    ],
+    "bounding_box_center": {
+        "x": 30.6,
+        "y": 30.077,
+        "z": 27.724000000000004
+    }
+}
